@@ -59,7 +59,7 @@ export default function Home() {
               Full Stack Software Engineer
             </h2>
             <Link
-              href="#"
+              href={socials.telegram}
               className="inline-block my-4 bg-white text-black px-6 py-2 rounded-full font-semibold hover:bg-gray-200 transition-colors text-sm"
             >
               Contact On Telegram
